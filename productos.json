@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Mainboard",
+    "price": 300,
+    "description":"Gigabyte",
+    "image": "./img/mainboard.jpg",
+    "category": "Mainboard"
+  },
+  {
+    "id": 2,
+    "title": "Procesador i3",
+    "price": 150,
+    "description":"Intel",
+    "image": "./img/corei3.jpg",
+    "category": "Procesador"
+  },
+  {
+    "id": 3,
+    "title": "Procesador i5",
+    "price": 250,
+    "description":"Intel",
+    "image": "./img/corei5.jpg",
+    "category": "Procesador"
+  },
+  {
+    "id": 4,
+    "title": "Procesador i7",
+    "price": 300,
+    "description":"Intel",
+    "image": "./img/corei7.jpg",
+    "category": "Procesador"
+  },
+  {
+    "id": 5,
+    "title": "Monitor Lg 19",
+    "price": 200,
+    "description":"Lg",
+    "image": "./img/monitor19.jpg",
+    "category": "Monitores"
+  },
+  {
+    "id": 6,
+    "title": "Monitor Lg 22",
+    "price": 300,
+    "description":"Lg",
+    "image": "./img/monitor22.jpg",
+    "category": "Monitores"
+  },
+  {
+    "id": 7,
+    "title": "Memoria DDR4 8GB",
+    "price": 30,
+    "description":"Kingston",
+    "image": "./img/memoria8.jpg",
+    "category": "Memorias"
+  },
+  {
+    "id": 8,
+    "title": "Memoria DDR4 16GB",
+    "price": 90,
+    "description":"Kingston",
+    "image": "./img/memoria16.jpg",
+    "category": "Memorias"
+  },
+  {
+    "id": 9,
+    "title": "Case Gamer Hallion",
+    "price": 80,
+    "description":"Halion",
+    "image": "./img/casegamer.jpg",
+    "category": "Case"
+  },
+  {
+    "id": 10,
+    "title": "Disco SSD 480GB",
+    "price": 100,
+    "description":"Kingston",
+    "image": "./img/disco480.jpg",
+    "category": "Discos"
+  }
+]
